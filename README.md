@@ -13,7 +13,7 @@ PS. More to come...
 | ![V1 Icon Preview](img/atomalticon-v1-preview.png) | ![V2 Icon Preview](img/atomalticon-v2-preview.png) |
 |---|---|
 | V1 ("flat") | V2 ("legacy") |
-| [download .icns](https://github.com/bzx/atomalticon.io/blob/master/icons/atomalticon-v1.icns) | [download .icns](https://github.com/bzx/atomalticon.io/blob/master/icons/atomalticon-v2.icns) |
+| [download .icns](https://github.com/bzx/atomalticon.io/blob/master/icons/atomalticon-v1.icns?raw=true) | [download .icns](https://github.com/bzx/atomalticon.io/blob/master/icons/atomalticon-v2.icns?raw=true) |
 
 
 ### Instructions
