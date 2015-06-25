@@ -10,7 +10,7 @@ I really liked the graphics accompanying today's [blog entry announcing Atom 1.0
 
 PS. More to come...
 
-| ![V1 Icon Preview](img/icon-preview-v1.png) | ![V2 Icon Preview](img/icon-preview-v2.png) |
+| ![V1 Icon Preview](img/atomalticon-v1-preview.png) | ![V2 Icon Preview](img/atomalticon-v2-preview.png) |
 |---|---|
 | V1 ("flat") | V2 ("legacy") |
 | [download .icns](icons/atomalticon-v1.icns) | [download .icns](icons/atomalticon-v2.icns) |
