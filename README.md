@@ -1,10 +1,10 @@
-# Atomalticon
+# Atomalticons
 
 #### Alternative icons to pimp your Atom 1.0!
 
 If you enjoyed the [1.0 release of your favourite editor](http://atom.io), here's a way to celebrate it with a new icon!
 
-I really liked the graphics accompanying today's [blog entry announcing Atom 1.0](http://blog.atom.io/2015/06/25/atom-1-0.html), and I thought that it would be cool to have those nice colours on the application icon in the OSX Dock. So... I opened Sketch and created them. V1 is essentially the same as on the graphic image in the blog entry (I just made the planet&orbit slightly bigger), V2 resembles current Atom greenish icon.
+I really liked the graphics accompanying today's [blog entry announcing Atom 1.0](http://blog.atom.io/2015/06/25/atom-1-0.html), and I thought that it would be cool to have those nice colours on the application icon in the Dock. So... I made this. 
 
 **Enjoy!**
 
