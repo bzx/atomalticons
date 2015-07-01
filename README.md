@@ -35,6 +35,4 @@ Unfortunately at this point I have no instructions for other OSes but I'll try t
 Please let me know if there's anything wrong with the icons!
 
 
-```
-  <span style="color:#666; font-weight:normal">Made with <span style="color:red">&hearts;</span> in <span style="color:#3DB47C">**Atom**</span> & <span style="color:#E97431">**Sketch**</span></span>
-```
+####  <span style="color:#666; font-weight:normal">Made with <span style="color:red">&hearts;</span> in <span style="color:#3DB47C">**Atom**</span> & <span style="color:#E97431">**Sketch**</span></span>
