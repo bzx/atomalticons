@@ -1,10 +1,10 @@
 # Atomalticons
 
-#### Alternative icons to pimp your Atom 1.0!
+#### Alternative (and unofficial) icons to pimp your Atom 1.0!
 
 If you enjoyed the [1.0 release of your favourite editor](http://atom.io), here's a way to celebrate it with a new icon!
 
-I really liked the graphics accompanying today's [blog entry announcing Atom 1.0](http://blog.atom.io/2015/06/25/atom-1-0.html), and I thought that it would be cool to have those nice colours on the application icon in the Dock. So... I made this. 
+I really liked the graphics accompanying [Atom's blog entry announcing version 1.0 of the editor](http://blog.atom.io/2015/06/25/atom-1-0.html), and I thought that it would be cool to have those nice colours on the application icon in the Dock. So... I made this.
 
 **Enjoy!**
 
@@ -12,9 +12,8 @@ PS. More to come...
 
 | ![V1 Icon Preview](img/atomalticon-v1-preview.png) | ![V2 Icon Preview](img/atomalticon-v2-preview.png) |
 |---|---|
-| V1 ("flat") | V2 ("legacy") |
+| FLAT | LEGACY |
 | [download .icns](https://github.com/bzx/atomalticon.io/blob/master/icons/atomalticon-v1.icns.zip?raw=true) | [download .icns](https://github.com/bzx/atomalticon.io/blob/master/icons/atomalticon-v2.icns.zip?raw=true) |
-
 
 ### Instructions
 
